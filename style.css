@@ -1,0 +1,107 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #2C3333;
+
+font-family: 'Architects Daughter', cursive;
+}
+.top-container{
+  background-color: #C9D6DF;
+  position: relative;
+  padding-top:  200PX;
+  padding-bottom: 0;
+  }
+.cl1{
+  position: absolute;
+  bottom: 550px;
+  left:900px;
+}
+.cl2{
+  position: absolute;
+bottom: 300px;
+left:300px;
+}
+.mu1{
+  bottom: 0;
+}
+.middle-container{
+  padding: 100px;
+  background-color:#EFFFFD;
+}
+hr{
+  border:dotted #1572A1 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+h1{
+  font-size: 5rem;
+font-family: 'Send Flowers', cursive;
+color: #66BFBF;
+}
+.hii{
+  color: #66BFBF;
+}
+
+
+h2{
+color: #BAE8E8;
+font-family: 'Tapestry', cursive;
+}
+.bottom-container{
+  background-color: #96CEB4;
+  padding: 20px 10px;
+}
+.man{
+  float: left;
+}
+.cycle{
+  float: right;
+}
+.hi{
+  width: 50%;
+  margin:100px auto;
+}
+p{
+  line-height: 2;
+}
+a{
+  color: #7C9473;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #4ECCA3;
+}
+.link1{
+  color:#7C9473;
+}
+.link2{
+  padding: 10px;
+}
+.btn {
+  background: #1ea196;
+  background-image: -webkit-linear-gradient(top, #1ea196, #17d6cc);
+  background-image: -moz-linear-gradient(top, #1ea196, #17d6cc);
+  background-image: -ms-linear-gradient(top, #1ea196, #17d6cc);
+  background-image: -o-linear-gradient(top, #1ea196, #17d6cc);
+  background-image: linear-gradient(to bottom, #1ea196, #17d6cc);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ba1298;
+  background-image: -webkit-linear-gradient(top, #ba1298, #a30679);
+  background-image: -moz-linear-gradient(top, #ba1298, #a30679);
+  background-image: -ms-linear-gradient(top, #ba1298, #a30679);
+  background-image: -o-linear-gradient(top, #ba1298, #a30679);
+  background-image: linear-gradient(to bottom, #ba1298, #a30679);
+  text-decoration: none;
+}
